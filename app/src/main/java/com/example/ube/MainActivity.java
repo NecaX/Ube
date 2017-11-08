@@ -1,4 +1,4 @@
-package com.example.necax.ube;
+package com.example.ube;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

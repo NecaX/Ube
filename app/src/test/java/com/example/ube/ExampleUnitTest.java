@@ -1,4 +1,4 @@
-package com.example.necax.ube;
+package com.example.ube;
 
 import org.junit.Test;
 

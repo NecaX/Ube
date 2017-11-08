@@ -1,4 +1,4 @@
-package com.example.necax.ube;
+package com.example.ube;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
