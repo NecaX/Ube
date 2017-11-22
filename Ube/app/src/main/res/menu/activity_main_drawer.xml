@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu"
+            android:icon="@android:drawable/ic_menu_set_as"
+            android:title="Menu Principal" />
+        <item
+            android:id="@+id/nav_iniciar"
+            android:icon="@android:drawable/ic_menu_add"
+            android:title="Iniciar Sesion" />
+        <item
+            android:id="@+id/nav_registrar"
+            android:icon="@android:drawable/ic_secure"
+            android:title="Registrarse" />
+        <item
+            android:id="@+id/nav_create"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="Crear" />
+        <item
+            android:id="@+id/nav_tutorial"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Tutorial" />
+        <item
+            android:id="@+id/nav_opciones"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Opciones" />
+        <item
+            android:id="@+id/nav_sugerencias"
+            android:icon="@android:drawable/sym_action_chat"
+            android:title="Sugerencias" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="Información sobre Ube" />
+    </group>
+
+</menu>
