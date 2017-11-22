@@ -169,7 +169,7 @@ public class MainActivity extends AppCompatActivity
     public void G(View vista){
         mp1.start();
     }
-    public void F(View vista){mp1.start();}
+    public void F (View vista){mp1.start();}
 
     public void activar(View vista){
         Fragment miFragment=null;
